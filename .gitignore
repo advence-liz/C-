@@ -3,6 +3,7 @@
 TestResults/
 .nuget/
 .vs/
+.vscode/
 _ReSharper.*/
 packages/
 artifacts/
