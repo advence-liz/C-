@@ -1,5 +1,6 @@
 # csharp
-学习&amp;研究&amp;总结&amp;整理
+最开始想着vscode 配合dotnet core,后来感觉蛋疼还是用 vs2017了
+master 即 sln 所在位置
 ## tip
 - C:\GIT\csharp\bin\Debug\netcoreapp1.1>dotnet hwapp.dll 
 - launch.json
